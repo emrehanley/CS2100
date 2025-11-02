@@ -4,8 +4,40 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-
+        {
+            "type": "java",
+            "name": "HanoiTower",
+            "request": "launch",
+            "mainClass": "HanoiTower",
+            "projectName": "CS2100_218a4861"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "CS2100_218a4861"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "CS2100_218a4861"
+        },
+        {
+            "type": "java",
+            "name": "GuessNumber",
+            "request": "launch",
+            "mainClass": "GuessNumber",
+            "projectName": "CS2100_218a4861"
+        },
+        {
+            "type": "java",
+            "name": "GuessNumber",
+            "request": "launch",
+            "mainClass": "guessnumber.GuessNumber"
+        },
         {
             "type": "java",
             "name": "sumofints",
